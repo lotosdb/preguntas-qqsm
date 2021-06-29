@@ -224,10 +224,10 @@
     {
         "categoria": "",
         "pregunta": "¿Cuál es el proceso de estirar verticalmente una forma 2D plana para mostrar las entidades en 3D ?",
-        "respuesta": "6",
-        "incorrecta1": "5",
-        "incorrecta2": "2",
-        "incorrecta3": "8",
+        "respuesta": "Extrusión",
+        "incorrecta1": "Elevación",
+        "incorrecta2": "Multiparche",
+        "incorrecta3": "Obstrucción",
         "imagen": "",
         "objectFit": "cover"
     },
@@ -235,10 +235,10 @@
     {
         "categoria": "",
         "pregunta": "Usted quiere crear un mapa al que solo ciertas personas, no el público general, pueden acceder. ¿Qué opción de compartir eligiría?",
-        "respuesta": "4",
-        "incorrecta1": "No se",
-        "incorrecta2": "8",
-        "incorrecta3": "200",
+        "respuesta": "Crear un grupo",
+        "incorrecta1": "A Mi Contenido",
+        "incorrecta2": "A la organización",
+        "incorrecta3": "Compartir a todos",
         "imagen": "",
         "objectFit": "cover"
     },
@@ -246,20 +246,20 @@
     {
         "categoria": "",
         "pregunta": "Si comparte una capa como paquete de capa a ArcGIS Online, usted podrá:",
-        "respuesta": "16",
-        "incorrecta1": "No se",
-        "incorrecta2": "4",
-        "incorrecta3": "20",
+        "respuesta": "Descargar la capa y usarla en su escritorio",
+        "incorrecta1": "Crear un mapa desde la web",
+        "incorrecta2": "Abrir en el Visor de Mapas",
+        "incorrecta3": "Todas las anteriores",
         "imagen": "",
         "objectFit": "cover"
     },
     {
         "categoria": "",
         "pregunta": "¿En un mapa web, qué tipo de contenido se puede agregar?",
-        "respuesta": "16",
-        "incorrecta1": "No se",
-        "incorrecta2": "4",
-        "incorrecta3": "20",
+        "respuesta": "Capas",
+        "incorrecta1": "Aplicaciones",
+        "incorrecta2": "Grupos",
+        "incorrecta3": "Escenas ",
         "imagen": "",
         "objectFit": "cover"
     },
