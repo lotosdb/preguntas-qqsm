@@ -266,10 +266,10 @@
     {
         "categoria": "",
         "pregunta": "¿Cuáles son las dos categorías de capas web?",
-        "respuesta": "10",
-        "incorrecta1": "5",
-        "incorrecta2": "8",
-        "incorrecta3": "3",
+        "respuesta": "Capas operacionales y mapas base ",
+        "incorrecta1": "Capas operacionales y de referencia ",
+        "incorrecta2": "Capas interactivas y mapas base ",
+        "incorrecta3": "Capas interactivas y de referencia",
         "imagen": "",
         "objectFit": "cover"
     },
@@ -277,10 +277,10 @@
     {
         "categoria": "",
         "pregunta": "¿Cuál es la secuencia correcta para crear una aplicación web en ArcGIS Online?",
-        "respuesta": "6",
-        "incorrecta1": "5",
-        "incorrecta2": "2",
-        "incorrecta3": "8",
+        "respuesta": "Utilizar las capas para crear un mapa, utilizar un mapa para crear una aplicación ",
+        "incorrecta1": "Utilizar un mapa para crear la aplicación, utilizar las capas para crear un mapa",
+        "incorrecta2": "Seleccionar las capas, compartir una aplicación, crear un mapa con capas ",
+        "incorrecta3": "Seleccionar un mapa, crear las capas, compartir las capas como una aplicación ",
         "imagen": "",
         "objectFit": "cover"
     },
